@@ -11,6 +11,10 @@
     "jsx-a11y/label-has-for": 0,
     "jsx-a11y/anchor-is-valid": 0,
     "jsx-a11y/click-events-have-key-events": 0,
+    "max-depth": 0,
+    "max-statements": 0,
+    "prefer-const": 0,
+    "no-void": 0,
     "no-console": 0,
     "quotes": [
       2,
